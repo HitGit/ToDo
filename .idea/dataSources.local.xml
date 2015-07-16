@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - ToDo_development@localhost" uuid="7716b937-4c3b-42b5-a69f-e4ad9f12b107">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>ToDo_development.pg_catalog ToDo_development.public</schema-pattern>
+      <default-schemas>ToDo_development.pg_catalog ToDo_development.public</default-schemas>
+    </data-source>
+    <data-source name="PostgreSQL - ToDo_test@localhost" uuid="15344004-b7dc-4d2e-8697-b1efe76ddf04">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>ToDo_test.pg_catalog ToDo_test.public</schema-pattern>
+      <default-schemas>ToDo_test.pg_catalog ToDo_test.public</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1772867975">
+    <data-source source="LOCAL" name="PostgreSQL - ToDo_development@localhost" uuid="7716b937-4c3b-42b5-a69f-e4ad9f12b107">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ToDo_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="PostgreSQL - ToDo_test@localhost" uuid="15344004-b7dc-4d2e-8697-b1efe76ddf04">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/ToDo_test</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
